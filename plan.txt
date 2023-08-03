@@ -1,0 +1,5 @@
+- Learn Github Actions to automate upload to a PyPI package 
+- Learn / Create Python package
+- upload to Github and hope that it works
+
+This is the Plan for now, lets see if something will get in my way 
