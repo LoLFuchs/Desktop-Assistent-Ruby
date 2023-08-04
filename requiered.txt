@@ -1,0 +1,7 @@
+SpeechRecognition 
+pyttsx3 2.90
+pyAudio
+pywhatkit
+wikipedia
+webbrowser
+datetime   
